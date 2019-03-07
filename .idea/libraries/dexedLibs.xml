@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="dexedLibs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MazeGameApp/themaze/android/bin/dexedLibs/google-play-services-e960d2e485ad68ec190880bd02f5f637.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MazeGameApp/themaze/android/bin/dexedLibs/javax.inject-1-3b59a24f17cc6b811edfe965dfbbc048.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MazeGameApp/themaze/android/bin/dexedLibs/support-v4-19.0.1-dbc29f031971d43de7362f0ff6ea0f6e.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MazeGameApp/themaze/android/bin/dexedLibs/dagger-1.2.2-01019be3bd1f3cf1c2cf344f131837e0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MazeGameApp/themaze/android/bin/dexedLibs/google-play-services_lib-d57c6860d651af24321fdc100c913f16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MazeGameApp/themaze/android/bin/dexedLibs/nineoldandroids-2.4.0-665eade78df5491ab046c315397ee5b4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

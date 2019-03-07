@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>99</string>
+                <key>className</key>
+                <string>PTNodeUI</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>World UI</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{594.000,-103.000}</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2065</string>
+                <key>className</key>
+                <string>PTNodeUI</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Main Menu UI</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{-284.000,-101.000}</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2902</string>
+                <key>className</key>
+                <string>PTNodeUI</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Levels UI</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{-95.000,-100.000}</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2976</string>
+                <key>className</key>
+                <string>PTNodeUI</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>You win</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{978.000,-104.000}</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>3605</string>
+                <key>className</key>
+                <string>PTNodeUI</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>World UI</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{598.000,48.000}</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>3623</string>
+                <key>className</key>
+                <string>PTNodeUI</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Game over</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{979.000,13.000}</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>

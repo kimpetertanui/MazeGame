@@ -1,0 +1,1315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="24fc37f9-6cd7-43ca-889f-efc3e270501e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/dexedLibs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/google_play_services.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/google_play_services_lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/libs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/icon512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/android.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/ant.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelAnimation.0.attributes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelAnimation.0.connections.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelAssetCharacter.0.attributes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelAssetCharacter.0.connections.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelAssetObstacle.0.attributes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelAssetObstacle.0.connections.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelAssetPowerup.0.attributes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelAssetPowerup.0.connections.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelAtlas.0.attributes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelAtlas.0.connections.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelComponentCharacterGameplaySettings.0.attributes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelComponentCharacterGameplaySettings.0.connections.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelComponentDeletionThreshold.0.attributes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelComponentDeletionThreshold.0.connections.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelComponentForcedMovement.0.attributes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelComponentForcedMovement.0.connections.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelComponentHealth.0.attributes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelComponentHealth.0.connections.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelComponentSpawner.0.attributes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelComponentSpawner.0.connections.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelComponentWakeup.0.attributes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelComponentWakeup.0.connections.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelFont.0.attributes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelFont.0.connections.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelGeneralSettings.0.attributes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelGeneralSettings.0.connections.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelLevelSection.0.attributes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelLevelSection.0.connections.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelLinker.0.attributes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelLinker.0.connections.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelObjectAssetCharacter.0.attributes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelObjectAssetCharacter.0.connections.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelObjectAssetLight.0.attributes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelObjectAssetLight.0.connections.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelObjectAssetLogic.0.attributes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelObjectAssetLogic.0.connections.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelObjectAssetParticles.0.attributes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelObjectAssetParticles.0.connections.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelObjectAssetParticlesEmitter.0.attributes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelObjectAssetParticlesEmitter.0.connections.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelObjectAssetPath.0.attributes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelObjectAssetPath.0.connections.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelObjectAssetPowerup.0.attributes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelObjectAssetPowerup.0.connections.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelObjectAssetScreenJump.0.attributes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelObjectAssetScreenJump.0.connections.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelObjectAssetUnit.0.attributes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelObjectAssetUnit.0.connections.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelObjectBackground.0.attributes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelObjectBackground.0.connections.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelObjectButton.0.attributes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelObjectButton.0.connections.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelObjectButtonControl.0.attributes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelObjectButtonControl.0.connections.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelObjectEventObserver.0.attributes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelObjectEventObserver.0.connections.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelObjectImage.0.attributes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelObjectImage.0.connections.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelObjectLabel.0.attributes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelObjectLabel.0.connections.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelObjectLockButton.0.attributes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelObjectLockButton.0.connections.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelScreen.0.attributes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelScreen.0.connections.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelScreenScene.0.attributes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelScreenScene.0.connections.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelSound.0.attributes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelSound.0.connections.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelSprite.0.attributes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelSprite.0.connections.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelSpriteContainer.0.attributes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTModelSpriteContainer.0.connections.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTNodeScene.0.attributes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTNodeScene.0.connections.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTNodeUI.0.attributes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTNodeUI.0.connections.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTNodeUIStart.0.attributes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/PTNodeUIStart.0.connections.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/atlases/atlas_ID107.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/atlases/atlas_ID107.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/atlases/atlas_ID2137.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/atlases/atlas_ID2137.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/fonts/PTModelFont_ID2.fnt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/fonts/PTModelFont_ID2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/fonts/PTModelFont_ID3719.fnt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/fonts/PTModelFont_ID3719.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/fx/flagMap.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/fx/lightMap.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/fx/trailMap.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/images/PTModelSprite_ID1043.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/images/PTModelSprite_ID1051.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/images/PTModelSprite_ID1187.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/sounds/PTModelSound_ID3857.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/data/sounds/PTModelSound_ID3859.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/assets/default.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/R.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/aidl/com/android/vending/billing/IInAppBillingService.aidl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/android/vending/billing/IInAppBillingService$Stub$Proxy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/android/vending/billing/IInAppBillingService$Stub.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/android/vending/billing/IInAppBillingService.aidl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/android/vending/billing/IInAppBillingService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/google/android/gms/R$attr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/google/android/gms/R$color.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/google/android/gms/R$dimen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/google/android/gms/R$drawable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/google/android/gms/R$id.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/google/android/gms/R$integer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/google/android/gms/R$layout.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/google/android/gms/R$raw.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/google/android/gms/R$string.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/google/android/gms/R$style.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/google/android/gms/R$styleable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/google/android/gms/R.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/pixels99/themazefg/BuildConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/pixels99/themazefg/PTPlayer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/pixels99/themazefg/R$attr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/pixels99/themazefg/R$color.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/pixels99/themazefg/R$dimen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/pixels99/themazefg/R$drawable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/pixels99/themazefg/R$id.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/pixels99/themazefg/R$integer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/pixels99/themazefg/R$layout.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/pixels99/themazefg/R$raw.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/pixels99/themazefg/R$string.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/pixels99/themazefg/R$style.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/pixels99/themazefg/R$styleable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/pixels99/themazefg/R.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/secrethq/ads/PTAdAdMobBridge$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/secrethq/ads/PTAdAdMobBridge$2$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/secrethq/ads/PTAdAdMobBridge$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/secrethq/ads/PTAdAdMobBridge$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/secrethq/ads/PTAdAdMobBridge$4$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/secrethq/ads/PTAdAdMobBridge$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/secrethq/ads/PTAdAdMobBridge$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/secrethq/ads/PTAdAdMobBridge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/secrethq/ads/PTAdAppLovinBridge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/secrethq/ads/PTAdChartboostBridge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/secrethq/ads/PTAdFacebookBridge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/secrethq/ads/PTAdHeyzapBridge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/secrethq/ads/PTAdLeadBoltBridge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/secrethq/ads/PTAdRevMobBridge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/secrethq/store/PTStoreBridge$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/secrethq/store/PTStoreBridge$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/secrethq/store/PTStoreBridge$3$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/secrethq/store/PTStoreBridge$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/secrethq/store/PTStoreBridge$4$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/secrethq/store/PTStoreBridge$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/secrethq/store/PTStoreBridge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/secrethq/store/util/Base64.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/secrethq/store/util/Base64DecoderException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/secrethq/store/util/IabException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/secrethq/store/util/IabHelper$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/secrethq/store/util/IabHelper$2$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/secrethq/store/util/IabHelper$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/secrethq/store/util/IabHelper$3$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/secrethq/store/util/IabHelper$3$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/secrethq/store/util/IabHelper$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/secrethq/store/util/IabHelper$OnConsumeFinishedListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/secrethq/store/util/IabHelper$OnConsumeMultiFinishedListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/secrethq/store/util/IabHelper$OnIabPurchaseFinishedListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/secrethq/store/util/IabHelper$OnIabSetupFinishedListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/secrethq/store/util/IabHelper$QueryInventoryFinishedListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/secrethq/store/util/IabHelper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/secrethq/store/util/IabResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/secrethq/store/util/Inventory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/secrethq/store/util/Purchase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/secrethq/store/util/Security.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/secrethq/store/util/SkuDetails.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/secrethq/utils/PTJniHelper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/secrethq/utils/PTServicesBridge$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/secrethq/utils/PTServicesBridge$1CpuFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/secrethq/utils/PTServicesBridge$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/secrethq/utils/PTServicesBridge$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/secrethq/utils/PTServicesBridge$4$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/secrethq/utils/PTServicesBridge$4$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/secrethq/utils/PTServicesBridge$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/com/secrethq/utils/PTServicesBridge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/org/cocos2dx/DISCLAIMER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/org/cocos2dx/lib/Cocos2dxAccelerometer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/org/cocos2dx/lib/Cocos2dxActivity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/org/cocos2dx/lib/Cocos2dxBitmap$TextProperty.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/org/cocos2dx/lib/Cocos2dxBitmap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/org/cocos2dx/lib/Cocos2dxETCLoader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/org/cocos2dx/lib/Cocos2dxEditBoxDialog$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/org/cocos2dx/lib/Cocos2dxEditBoxDialog$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/org/cocos2dx/lib/Cocos2dxEditBoxDialog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/org/cocos2dx/lib/Cocos2dxEditText.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/org/cocos2dx/lib/Cocos2dxGLSurfaceView$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/org/cocos2dx/lib/Cocos2dxGLSurfaceView$10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/org/cocos2dx/lib/Cocos2dxGLSurfaceView$11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/org/cocos2dx/lib/Cocos2dxGLSurfaceView$12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/org/cocos2dx/lib/Cocos2dxGLSurfaceView$13.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/org/cocos2dx/lib/Cocos2dxGLSurfaceView$14.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/org/cocos2dx/lib/Cocos2dxGLSurfaceView$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/org/cocos2dx/lib/Cocos2dxGLSurfaceView$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/org/cocos2dx/lib/Cocos2dxGLSurfaceView$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/org/cocos2dx/lib/Cocos2dxGLSurfaceView$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/org/cocos2dx/lib/Cocos2dxGLSurfaceView$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/org/cocos2dx/lib/Cocos2dxGLSurfaceView$7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/org/cocos2dx/lib/Cocos2dxGLSurfaceView$8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/org/cocos2dx/lib/Cocos2dxGLSurfaceView$9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/org/cocos2dx/lib/Cocos2dxGLSurfaceView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/org/cocos2dx/lib/Cocos2dxHandler$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/org/cocos2dx/lib/Cocos2dxHandler$DialogMessage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/org/cocos2dx/lib/Cocos2dxHandler$EditBoxMessage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/org/cocos2dx/lib/Cocos2dxHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/org/cocos2dx/lib/Cocos2dxHelper$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/org/cocos2dx/lib/Cocos2dxHelper$Cocos2dxHelperListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/org/cocos2dx/lib/Cocos2dxHelper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/org/cocos2dx/lib/Cocos2dxLocalStorage$DBOpenHelper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/org/cocos2dx/lib/Cocos2dxLocalStorage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/org/cocos2dx/lib/Cocos2dxMusic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/org/cocos2dx/lib/Cocos2dxRenderer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/org/cocos2dx/lib/Cocos2dxSound$OnLoadCompletedListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/org/cocos2dx/lib/Cocos2dxSound$SoundInfoForLoadedCompleted.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/org/cocos2dx/lib/Cocos2dxSound.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/org/cocos2dx/lib/Cocos2dxTextInputWraper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/classes/org/cocos2dx/lib/Cocos2dxTypefaces.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/dexedLibs/dagger-1.2.2-01019be3bd1f3cf1c2cf344f131837e0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/dexedLibs/google-play-services-e960d2e485ad68ec190880bd02f5f637.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/dexedLibs/google-play-services_lib-d57c6860d651af24321fdc100c913f16.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/dexedLibs/javax.inject-1-3b59a24f17cc6b811edfe965dfbbc048.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/dexedLibs/nineoldandroids-2.4.0-665eade78df5491ab046c315397ee5b4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/dexedLibs/support-v4-19.0.1-dbc29f031971d43de7362f0ff6ea0f6e.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/jarlist.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/res/crunch/drawable-hdpi/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/res/crunch/drawable-ldpi/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/res/crunch/drawable-mdpi/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/res/crunch/drawable-xhdpi/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/res/crunch/drawable-xxhdpi/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/res/crunch/drawable-xxxhdpi/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/res/crunch/drawable/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/bin/res/crunch/drawable/spacer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/gen/com/android/vending/billing/IInAppBillingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/gen/com/google/android/gms/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/gen/com/pixels99/themazefg/BuildConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/gen/com/pixels99/themazefg/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/jni/Android.mk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/jni/Application.mk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/jni/list.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/jni/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/armeabi-v7a/libplayer.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/armeabi/libplayer.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/dagger-1.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/R.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/classes/android/UnusedStub.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/classes/com/google/android/gms/BuildConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/classes/com/google/android/gms/R$attr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/classes/com/google/android/gms/R$color.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/classes/com/google/android/gms/R$dimen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/classes/com/google/android/gms/R$drawable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/classes/com/google/android/gms/R$id.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/classes/com/google/android/gms/R$integer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/classes/com/google/android/gms/R$layout.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/classes/com/google/android/gms/R$raw.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/classes/com/google/android/gms/R$string.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/classes/com/google/android/gms/R$style.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/classes/com/google/android/gms/R$styleable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/classes/com/google/android/gms/R.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/google-play-services_lib.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/jarlist.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-hdpi/cast_ic_notification_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-hdpi/cast_ic_notification_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-hdpi/cast_ic_notification_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-hdpi/cast_ic_notification_on.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-hdpi/common_full_open_on_phone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-hdpi/common_google_signin_btn_icon_dark_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-hdpi/common_google_signin_btn_icon_dark_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-hdpi/common_google_signin_btn_icon_dark_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-hdpi/common_google_signin_btn_icon_dark_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-hdpi/common_google_signin_btn_icon_light_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-hdpi/common_google_signin_btn_icon_light_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-hdpi/common_google_signin_btn_icon_light_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-hdpi/common_google_signin_btn_icon_light_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-hdpi/common_google_signin_btn_text_dark_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-hdpi/common_google_signin_btn_text_dark_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-hdpi/common_google_signin_btn_text_dark_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-hdpi/common_google_signin_btn_text_dark_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-hdpi/common_google_signin_btn_text_light_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-hdpi/common_google_signin_btn_text_light_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-hdpi/common_google_signin_btn_text_light_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-hdpi/common_google_signin_btn_text_light_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-hdpi/common_ic_googleplayservices.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-hdpi/common_plus_signin_btn_icon_dark_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-hdpi/common_plus_signin_btn_icon_dark_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-hdpi/common_plus_signin_btn_icon_dark_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-hdpi/common_plus_signin_btn_icon_dark_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-hdpi/common_plus_signin_btn_icon_light_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-hdpi/common_plus_signin_btn_icon_light_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-hdpi/common_plus_signin_btn_icon_light_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-hdpi/common_plus_signin_btn_icon_light_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-hdpi/common_plus_signin_btn_text_dark_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-hdpi/common_plus_signin_btn_text_dark_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-hdpi/common_plus_signin_btn_text_dark_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-hdpi/common_plus_signin_btn_text_dark_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-hdpi/common_plus_signin_btn_text_light_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-hdpi/common_plus_signin_btn_text_light_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-hdpi/common_plus_signin_btn_text_light_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-hdpi/common_plus_signin_btn_text_light_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-hdpi/ic_plusone_medium_off_client.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-hdpi/ic_plusone_small_off_client.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-hdpi/ic_plusone_standard_off_client.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-hdpi/ic_plusone_tall_off_client.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-hdpi/places_ic_clear.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-hdpi/places_ic_search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-hdpi/powered_by_google_dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-hdpi/powered_by_google_light.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-mdpi/cast_ic_notification_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-mdpi/cast_ic_notification_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-mdpi/cast_ic_notification_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-mdpi/cast_ic_notification_on.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-mdpi/common_full_open_on_phone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-mdpi/common_google_signin_btn_icon_dark_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-mdpi/common_google_signin_btn_icon_dark_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-mdpi/common_google_signin_btn_icon_dark_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-mdpi/common_google_signin_btn_icon_dark_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-mdpi/common_google_signin_btn_icon_light_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-mdpi/common_google_signin_btn_icon_light_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-mdpi/common_google_signin_btn_icon_light_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-mdpi/common_google_signin_btn_icon_light_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-mdpi/common_google_signin_btn_text_dark_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-mdpi/common_google_signin_btn_text_dark_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-mdpi/common_google_signin_btn_text_dark_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-mdpi/common_google_signin_btn_text_dark_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-mdpi/common_google_signin_btn_text_light_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-mdpi/common_google_signin_btn_text_light_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-mdpi/common_google_signin_btn_text_light_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-mdpi/common_google_signin_btn_text_light_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-mdpi/common_plus_signin_btn_icon_dark_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-mdpi/common_plus_signin_btn_icon_dark_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-mdpi/common_plus_signin_btn_icon_dark_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-mdpi/common_plus_signin_btn_icon_dark_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-mdpi/common_plus_signin_btn_icon_light_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-mdpi/common_plus_signin_btn_icon_light_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-mdpi/common_plus_signin_btn_icon_light_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-mdpi/common_plus_signin_btn_icon_light_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-mdpi/common_plus_signin_btn_text_dark_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-mdpi/common_plus_signin_btn_text_dark_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-mdpi/common_plus_signin_btn_text_dark_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-mdpi/common_plus_signin_btn_text_dark_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-mdpi/common_plus_signin_btn_text_light_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-mdpi/common_plus_signin_btn_text_light_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-mdpi/common_plus_signin_btn_text_light_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-mdpi/common_plus_signin_btn_text_light_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-mdpi/ic_plusone_medium_off_client.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-mdpi/ic_plusone_small_off_client.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-mdpi/ic_plusone_standard_off_client.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-mdpi/ic_plusone_tall_off_client.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-mdpi/places_ic_clear.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-mdpi/places_ic_search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-mdpi/powered_by_google_dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-mdpi/powered_by_google_light.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-tvdpi/common_full_open_on_phone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-tvdpi/common_google_signin_btn_icon_dark_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-tvdpi/common_google_signin_btn_icon_dark_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-tvdpi/common_google_signin_btn_icon_dark_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-tvdpi/common_google_signin_btn_icon_dark_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-tvdpi/common_google_signin_btn_icon_light_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-tvdpi/common_google_signin_btn_icon_light_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-tvdpi/common_google_signin_btn_icon_light_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-tvdpi/common_google_signin_btn_icon_light_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-tvdpi/common_google_signin_btn_text_dark_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-tvdpi/common_google_signin_btn_text_dark_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-tvdpi/common_google_signin_btn_text_dark_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-tvdpi/common_google_signin_btn_text_dark_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-tvdpi/common_google_signin_btn_text_light_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-tvdpi/common_google_signin_btn_text_light_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-tvdpi/common_google_signin_btn_text_light_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-tvdpi/common_google_signin_btn_text_light_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-tvdpi/common_plus_signin_btn_icon_dark_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-tvdpi/common_plus_signin_btn_icon_dark_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-tvdpi/common_plus_signin_btn_icon_dark_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-tvdpi/common_plus_signin_btn_icon_dark_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-tvdpi/common_plus_signin_btn_icon_light_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-tvdpi/common_plus_signin_btn_icon_light_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-tvdpi/common_plus_signin_btn_icon_light_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-tvdpi/common_plus_signin_btn_icon_light_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-tvdpi/common_plus_signin_btn_text_dark_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-tvdpi/common_plus_signin_btn_text_dark_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-tvdpi/common_plus_signin_btn_text_dark_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-tvdpi/common_plus_signin_btn_text_dark_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-tvdpi/common_plus_signin_btn_text_light_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-tvdpi/common_plus_signin_btn_text_light_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-tvdpi/common_plus_signin_btn_text_light_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-tvdpi/common_plus_signin_btn_text_light_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-tvdpi/ic_plusone_medium_off_client.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-tvdpi/ic_plusone_small_off_client.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-tvdpi/ic_plusone_standard_off_client.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-tvdpi/ic_plusone_tall_off_client.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xhdpi/cast_ic_notification_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xhdpi/cast_ic_notification_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xhdpi/cast_ic_notification_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xhdpi/cast_ic_notification_on.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xhdpi/common_full_open_on_phone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xhdpi/common_google_signin_btn_icon_dark_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xhdpi/common_google_signin_btn_icon_dark_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xhdpi/common_google_signin_btn_icon_dark_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xhdpi/common_google_signin_btn_icon_dark_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xhdpi/common_google_signin_btn_icon_light_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xhdpi/common_google_signin_btn_icon_light_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xhdpi/common_google_signin_btn_icon_light_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xhdpi/common_google_signin_btn_icon_light_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xhdpi/common_google_signin_btn_text_dark_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xhdpi/common_google_signin_btn_text_dark_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xhdpi/common_google_signin_btn_text_dark_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xhdpi/common_google_signin_btn_text_dark_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xhdpi/common_google_signin_btn_text_light_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xhdpi/common_google_signin_btn_text_light_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xhdpi/common_google_signin_btn_text_light_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xhdpi/common_google_signin_btn_text_light_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xhdpi/common_plus_signin_btn_icon_dark_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xhdpi/common_plus_signin_btn_icon_dark_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xhdpi/common_plus_signin_btn_icon_dark_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xhdpi/common_plus_signin_btn_icon_dark_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xhdpi/common_plus_signin_btn_icon_light_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xhdpi/common_plus_signin_btn_icon_light_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xhdpi/common_plus_signin_btn_icon_light_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xhdpi/common_plus_signin_btn_icon_light_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xhdpi/common_plus_signin_btn_text_dark_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xhdpi/common_plus_signin_btn_text_dark_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xhdpi/common_plus_signin_btn_text_dark_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xhdpi/common_plus_signin_btn_text_dark_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xhdpi/common_plus_signin_btn_text_light_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xhdpi/common_plus_signin_btn_text_light_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xhdpi/common_plus_signin_btn_text_light_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xhdpi/common_plus_signin_btn_text_light_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xhdpi/ic_plusone_medium_off_client.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xhdpi/ic_plusone_small_off_client.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xhdpi/ic_plusone_standard_off_client.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xhdpi/ic_plusone_tall_off_client.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xhdpi/places_ic_clear.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xhdpi/places_ic_search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xhdpi/powered_by_google_dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xhdpi/powered_by_google_light.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xxhdpi/cast_ic_notification_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xxhdpi/cast_ic_notification_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xxhdpi/cast_ic_notification_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xxhdpi/cast_ic_notification_on.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xxhdpi/common_full_open_on_phone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xxhdpi/common_google_signin_btn_icon_dark_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xxhdpi/common_google_signin_btn_icon_dark_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xxhdpi/common_google_signin_btn_icon_dark_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xxhdpi/common_google_signin_btn_icon_dark_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xxhdpi/common_google_signin_btn_icon_light_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xxhdpi/common_google_signin_btn_icon_light_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xxhdpi/common_google_signin_btn_icon_light_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xxhdpi/common_google_signin_btn_icon_light_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xxhdpi/common_google_signin_btn_text_dark_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xxhdpi/common_google_signin_btn_text_dark_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xxhdpi/common_google_signin_btn_text_dark_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xxhdpi/common_google_signin_btn_text_dark_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xxhdpi/common_google_signin_btn_text_light_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xxhdpi/common_google_signin_btn_text_light_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xxhdpi/common_google_signin_btn_text_light_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xxhdpi/common_google_signin_btn_text_light_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xxhdpi/common_plus_signin_btn_icon_dark_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xxhdpi/common_plus_signin_btn_icon_dark_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xxhdpi/common_plus_signin_btn_icon_dark_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xxhdpi/common_plus_signin_btn_icon_dark_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xxhdpi/common_plus_signin_btn_icon_light_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xxhdpi/common_plus_signin_btn_icon_light_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xxhdpi/common_plus_signin_btn_icon_light_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xxhdpi/common_plus_signin_btn_icon_light_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xxhdpi/common_plus_signin_btn_text_dark_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xxhdpi/common_plus_signin_btn_text_dark_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xxhdpi/common_plus_signin_btn_text_dark_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xxhdpi/common_plus_signin_btn_text_dark_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xxhdpi/common_plus_signin_btn_text_light_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xxhdpi/common_plus_signin_btn_text_light_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xxhdpi/common_plus_signin_btn_text_light_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xxhdpi/common_plus_signin_btn_text_light_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xxhdpi/ic_plusone_medium_off_client.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xxhdpi/ic_plusone_small_off_client.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xxhdpi/ic_plusone_standard_off_client.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xxhdpi/ic_plusone_tall_off_client.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xxhdpi/places_ic_clear.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xxhdpi/places_ic_search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xxhdpi/powered_by_google_dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xxhdpi/powered_by_google_light.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xxxhdpi/places_ic_clear.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xxxhdpi/places_ic_search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xxxhdpi/powered_by_google_dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/bin/res/crunch/drawable-xxxhdpi/powered_by_google_light.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/gen/com/google/android/gms/BuildConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/gen/com/google/android/gms/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/google-play-services_lib.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/libs/google-play-services.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/libs/google-play-services.jar.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/proguard.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/color/common_google_signin_btn_text_dark.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/color/common_google_signin_btn_text_light.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/color/common_plus_signin_btn_text_dark.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/color/common_plus_signin_btn_text_light.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/color/wallet_primary_text_holo_light.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/color/wallet_secondary_text_holo_dark.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-hdpi/cast_ic_notification_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-hdpi/cast_ic_notification_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-hdpi/cast_ic_notification_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-hdpi/cast_ic_notification_on.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-hdpi/common_full_open_on_phone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-hdpi/common_google_signin_btn_icon_dark_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-hdpi/common_google_signin_btn_icon_dark_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-hdpi/common_google_signin_btn_icon_dark_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-hdpi/common_google_signin_btn_icon_dark_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-hdpi/common_google_signin_btn_icon_light_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-hdpi/common_google_signin_btn_icon_light_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-hdpi/common_google_signin_btn_icon_light_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-hdpi/common_google_signin_btn_icon_light_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-hdpi/common_google_signin_btn_text_dark_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-hdpi/common_google_signin_btn_text_dark_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-hdpi/common_google_signin_btn_text_dark_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-hdpi/common_google_signin_btn_text_dark_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-hdpi/common_google_signin_btn_text_light_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-hdpi/common_google_signin_btn_text_light_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-hdpi/common_google_signin_btn_text_light_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-hdpi/common_google_signin_btn_text_light_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-hdpi/common_ic_googleplayservices.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-hdpi/common_plus_signin_btn_icon_dark_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-hdpi/common_plus_signin_btn_icon_dark_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-hdpi/common_plus_signin_btn_icon_dark_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-hdpi/common_plus_signin_btn_icon_dark_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-hdpi/common_plus_signin_btn_icon_light_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-hdpi/common_plus_signin_btn_icon_light_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-hdpi/common_plus_signin_btn_icon_light_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-hdpi/common_plus_signin_btn_icon_light_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-hdpi/common_plus_signin_btn_text_dark_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-hdpi/common_plus_signin_btn_text_dark_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-hdpi/common_plus_signin_btn_text_dark_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-hdpi/common_plus_signin_btn_text_dark_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-hdpi/common_plus_signin_btn_text_light_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-hdpi/common_plus_signin_btn_text_light_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-hdpi/common_plus_signin_btn_text_light_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-hdpi/common_plus_signin_btn_text_light_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-hdpi/ic_plusone_medium_off_client.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-hdpi/ic_plusone_small_off_client.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-hdpi/ic_plusone_standard_off_client.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-hdpi/ic_plusone_tall_off_client.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-hdpi/places_ic_clear.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-hdpi/places_ic_search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-hdpi/powered_by_google_dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-hdpi/powered_by_google_light.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-mdpi/cast_ic_notification_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-mdpi/cast_ic_notification_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-mdpi/cast_ic_notification_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-mdpi/cast_ic_notification_on.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-mdpi/common_full_open_on_phone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-mdpi/common_google_signin_btn_icon_dark_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-mdpi/common_google_signin_btn_icon_dark_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-mdpi/common_google_signin_btn_icon_dark_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-mdpi/common_google_signin_btn_icon_dark_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-mdpi/common_google_signin_btn_icon_light_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-mdpi/common_google_signin_btn_icon_light_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-mdpi/common_google_signin_btn_icon_light_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-mdpi/common_google_signin_btn_icon_light_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-mdpi/common_google_signin_btn_text_dark_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-mdpi/common_google_signin_btn_text_dark_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-mdpi/common_google_signin_btn_text_dark_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-mdpi/common_google_signin_btn_text_dark_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-mdpi/common_google_signin_btn_text_light_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-mdpi/common_google_signin_btn_text_light_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-mdpi/common_google_signin_btn_text_light_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-mdpi/common_google_signin_btn_text_light_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-mdpi/common_plus_signin_btn_icon_dark_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-mdpi/common_plus_signin_btn_icon_dark_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-mdpi/common_plus_signin_btn_icon_dark_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-mdpi/common_plus_signin_btn_icon_dark_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-mdpi/common_plus_signin_btn_icon_light_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-mdpi/common_plus_signin_btn_icon_light_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-mdpi/common_plus_signin_btn_icon_light_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-mdpi/common_plus_signin_btn_icon_light_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-mdpi/common_plus_signin_btn_text_dark_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-mdpi/common_plus_signin_btn_text_dark_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-mdpi/common_plus_signin_btn_text_dark_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-mdpi/common_plus_signin_btn_text_dark_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-mdpi/common_plus_signin_btn_text_light_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-mdpi/common_plus_signin_btn_text_light_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-mdpi/common_plus_signin_btn_text_light_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-mdpi/common_plus_signin_btn_text_light_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-mdpi/ic_plusone_medium_off_client.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-mdpi/ic_plusone_small_off_client.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-mdpi/ic_plusone_standard_off_client.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-mdpi/ic_plusone_tall_off_client.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-mdpi/places_ic_clear.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-mdpi/places_ic_search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-mdpi/powered_by_google_dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-mdpi/powered_by_google_light.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-tvdpi/common_full_open_on_phone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-tvdpi/common_google_signin_btn_icon_dark_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-tvdpi/common_google_signin_btn_icon_dark_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-tvdpi/common_google_signin_btn_icon_dark_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-tvdpi/common_google_signin_btn_icon_dark_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-tvdpi/common_google_signin_btn_icon_light_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-tvdpi/common_google_signin_btn_icon_light_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-tvdpi/common_google_signin_btn_icon_light_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-tvdpi/common_google_signin_btn_icon_light_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-tvdpi/common_google_signin_btn_text_dark_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-tvdpi/common_google_signin_btn_text_dark_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-tvdpi/common_google_signin_btn_text_dark_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-tvdpi/common_google_signin_btn_text_dark_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-tvdpi/common_google_signin_btn_text_light_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-tvdpi/common_google_signin_btn_text_light_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-tvdpi/common_google_signin_btn_text_light_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-tvdpi/common_google_signin_btn_text_light_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-tvdpi/common_plus_signin_btn_icon_dark_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-tvdpi/common_plus_signin_btn_icon_dark_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-tvdpi/common_plus_signin_btn_icon_dark_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-tvdpi/common_plus_signin_btn_icon_dark_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-tvdpi/common_plus_signin_btn_icon_light_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-tvdpi/common_plus_signin_btn_icon_light_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-tvdpi/common_plus_signin_btn_icon_light_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-tvdpi/common_plus_signin_btn_icon_light_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-tvdpi/common_plus_signin_btn_text_dark_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-tvdpi/common_plus_signin_btn_text_dark_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-tvdpi/common_plus_signin_btn_text_dark_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-tvdpi/common_plus_signin_btn_text_dark_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-tvdpi/common_plus_signin_btn_text_light_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-tvdpi/common_plus_signin_btn_text_light_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-tvdpi/common_plus_signin_btn_text_light_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-tvdpi/common_plus_signin_btn_text_light_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-tvdpi/ic_plusone_medium_off_client.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-tvdpi/ic_plusone_small_off_client.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-tvdpi/ic_plusone_standard_off_client.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-tvdpi/ic_plusone_tall_off_client.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xhdpi/cast_ic_notification_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xhdpi/cast_ic_notification_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xhdpi/cast_ic_notification_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xhdpi/cast_ic_notification_on.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xhdpi/common_full_open_on_phone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xhdpi/common_google_signin_btn_icon_dark_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xhdpi/common_google_signin_btn_icon_dark_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xhdpi/common_google_signin_btn_icon_dark_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xhdpi/common_google_signin_btn_icon_dark_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xhdpi/common_google_signin_btn_icon_light_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xhdpi/common_google_signin_btn_icon_light_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xhdpi/common_google_signin_btn_icon_light_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xhdpi/common_google_signin_btn_icon_light_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xhdpi/common_google_signin_btn_text_dark_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xhdpi/common_google_signin_btn_text_dark_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xhdpi/common_google_signin_btn_text_dark_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xhdpi/common_google_signin_btn_text_dark_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xhdpi/common_google_signin_btn_text_light_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xhdpi/common_google_signin_btn_text_light_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xhdpi/common_google_signin_btn_text_light_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xhdpi/common_google_signin_btn_text_light_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xhdpi/common_plus_signin_btn_icon_dark_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xhdpi/common_plus_signin_btn_icon_dark_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xhdpi/common_plus_signin_btn_icon_dark_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xhdpi/common_plus_signin_btn_icon_dark_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xhdpi/common_plus_signin_btn_icon_light_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xhdpi/common_plus_signin_btn_icon_light_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xhdpi/common_plus_signin_btn_icon_light_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xhdpi/common_plus_signin_btn_icon_light_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xhdpi/common_plus_signin_btn_text_dark_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xhdpi/common_plus_signin_btn_text_dark_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xhdpi/common_plus_signin_btn_text_dark_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xhdpi/common_plus_signin_btn_text_dark_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xhdpi/common_plus_signin_btn_text_light_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xhdpi/common_plus_signin_btn_text_light_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xhdpi/common_plus_signin_btn_text_light_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xhdpi/common_plus_signin_btn_text_light_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xhdpi/ic_plusone_medium_off_client.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xhdpi/ic_plusone_small_off_client.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xhdpi/ic_plusone_standard_off_client.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xhdpi/ic_plusone_tall_off_client.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xhdpi/places_ic_clear.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xhdpi/places_ic_search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xhdpi/powered_by_google_dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xhdpi/powered_by_google_light.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xxhdpi/cast_ic_notification_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xxhdpi/cast_ic_notification_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xxhdpi/cast_ic_notification_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xxhdpi/cast_ic_notification_on.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xxhdpi/common_full_open_on_phone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xxhdpi/common_google_signin_btn_icon_dark_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xxhdpi/common_google_signin_btn_icon_dark_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xxhdpi/common_google_signin_btn_icon_dark_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xxhdpi/common_google_signin_btn_icon_dark_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xxhdpi/common_google_signin_btn_icon_light_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xxhdpi/common_google_signin_btn_icon_light_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xxhdpi/common_google_signin_btn_icon_light_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xxhdpi/common_google_signin_btn_icon_light_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xxhdpi/common_google_signin_btn_text_dark_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xxhdpi/common_google_signin_btn_text_dark_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xxhdpi/common_google_signin_btn_text_dark_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xxhdpi/common_google_signin_btn_text_dark_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xxhdpi/common_google_signin_btn_text_light_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xxhdpi/common_google_signin_btn_text_light_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xxhdpi/common_google_signin_btn_text_light_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xxhdpi/common_google_signin_btn_text_light_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xxhdpi/common_plus_signin_btn_icon_dark_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xxhdpi/common_plus_signin_btn_icon_dark_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xxhdpi/common_plus_signin_btn_icon_dark_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xxhdpi/common_plus_signin_btn_icon_dark_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xxhdpi/common_plus_signin_btn_icon_light_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xxhdpi/common_plus_signin_btn_icon_light_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xxhdpi/common_plus_signin_btn_icon_light_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xxhdpi/common_plus_signin_btn_icon_light_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xxhdpi/common_plus_signin_btn_text_dark_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xxhdpi/common_plus_signin_btn_text_dark_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xxhdpi/common_plus_signin_btn_text_dark_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xxhdpi/common_plus_signin_btn_text_dark_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xxhdpi/common_plus_signin_btn_text_light_disabled.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xxhdpi/common_plus_signin_btn_text_light_focused.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xxhdpi/common_plus_signin_btn_text_light_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xxhdpi/common_plus_signin_btn_text_light_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xxhdpi/ic_plusone_medium_off_client.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xxhdpi/ic_plusone_small_off_client.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xxhdpi/ic_plusone_standard_off_client.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xxhdpi/ic_plusone_tall_off_client.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xxhdpi/places_ic_clear.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xxhdpi/places_ic_search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xxhdpi/powered_by_google_dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xxhdpi/powered_by_google_light.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xxxhdpi/places_ic_clear.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xxxhdpi/places_ic_search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xxxhdpi/powered_by_google_dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable-xxxhdpi/powered_by_google_light.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable/cast_ic_notification_connecting.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable/common_google_signin_btn_icon_dark.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable/common_google_signin_btn_icon_light.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable/common_google_signin_btn_text_dark.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable/common_google_signin_btn_text_light.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable/common_plus_signin_btn_icon_dark.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable/common_plus_signin_btn_icon_light.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable/common_plus_signin_btn_text_dark.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/drawable/common_plus_signin_btn_text_light.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/layout-v21/place_autocomplete_fragment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/layout/place_autocomplete_fragment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/layout/place_autocomplete_item_powered_by_google.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/layout/place_autocomplete_item_prediction.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/layout/place_autocomplete_progress.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/raw/gtm_analytics" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-af/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-af/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-af/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-am/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-am/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-am/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-am/wallet_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-ar/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-ar/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-ar/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-ar/wallet_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-az-rAZ/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-az-rAZ/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-az-rAZ/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-bg/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-bg/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-bg/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-bg/wallet_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-bn-rBD/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-bn-rBD/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-bn-rBD/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-ca/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-ca/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-ca/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-ca/wallet_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-cs/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-cs/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-cs/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-cs/wallet_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-da/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-da/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-da/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-da/wallet_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-de/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-de/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-de/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-de/wallet_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-el/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-el/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-el/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-el/wallet_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-en-rAU/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-en-rAU/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-en-rAU/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-en-rAU/wallet_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-en-rGB/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-en-rGB/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-en-rGB/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-en-rGB/wallet_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-en-rIN/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-en-rIN/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-en-rIN/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-en-rIN/wallet_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-es-rUS/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-es-rUS/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-es-rUS/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-es-rUS/wallet_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-es/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-es/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-es/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-es/wallet_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-et-rEE/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-et-rEE/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-et-rEE/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-eu-rES/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-eu-rES/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-eu-rES/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-fa/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-fa/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-fa/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-fa/wallet_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-fi/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-fi/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-fi/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-fi/wallet_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-fr-rCA/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-fr-rCA/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-fr-rCA/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-fr/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-fr/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-fr/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-fr/wallet_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-gl-rES/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-gl-rES/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-gl-rES/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-gu-rIN/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-gu-rIN/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-gu-rIN/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-hi/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-hi/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-hi/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-hi/wallet_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-hr/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-hr/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-hr/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-hr/wallet_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-hu/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-hu/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-hu/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-hu/wallet_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-hy-rAM/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-hy-rAM/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-hy-rAM/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-in/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-in/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-in/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-in/wallet_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-is-rIS/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-is-rIS/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-is-rIS/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-it/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-it/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-it/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-it/wallet_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-iw/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-iw/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-iw/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-iw/wallet_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-ja/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-ja/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-ja/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-ja/wallet_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-ka-rGE/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-ka-rGE/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-ka-rGE/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-kk-rKZ/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-kk-rKZ/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-kk-rKZ/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-km-rKH/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-km-rKH/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-km-rKH/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-kn-rIN/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-kn-rIN/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-kn-rIN/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-ko/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-ko/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-ko/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-ko/wallet_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-ky-rKG/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-ky-rKG/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-ky-rKG/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-lo-rLA/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-lo-rLA/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-lo-rLA/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-lt/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-lt/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-lt/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-lt/wallet_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-lv/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-lv/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-lv/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-lv/wallet_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-mk-rMK/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-mk-rMK/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-mk-rMK/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-ml-rIN/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-ml-rIN/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-ml-rIN/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-mn-rMN/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-mn-rMN/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-mn-rMN/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-mr-rIN/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-mr-rIN/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-mr-rIN/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-ms-rMY/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-ms-rMY/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-ms-rMY/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-ms-rMY/wallet_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-my-rMM/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-my-rMM/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-my-rMM/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-nb/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-nb/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-nb/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-nb/wallet_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-ne-rNP/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-ne-rNP/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-ne-rNP/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-nl/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-nl/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-nl/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-nl/wallet_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-pa-rIN/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-pa-rIN/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-pa-rIN/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-pl/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-pl/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-pl/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-pl/wallet_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-pt-rBR/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-pt-rBR/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-pt-rBR/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-pt-rBR/wallet_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-pt-rPT/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-pt-rPT/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-pt-rPT/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-pt-rPT/wallet_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-pt/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-pt/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-pt/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-pt/wallet_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-ro/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-ro/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-ro/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-ro/wallet_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-ru/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-ru/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-ru/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-ru/wallet_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-si-rLK/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-si-rLK/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-si-rLK/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-sk/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-sk/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-sk/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-sk/wallet_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-sl/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-sl/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-sl/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-sl/wallet_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-sq-rAL/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-sq-rAL/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-sq-rAL/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-sr/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-sr/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-sr/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-sr/wallet_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-sv/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-sv/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-sv/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-sv/wallet_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-sw/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-sw/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-sw/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-sw/wallet_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-ta-rIN/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-ta-rIN/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-ta-rIN/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-te-rIN/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-te-rIN/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-te-rIN/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-th/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-th/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-th/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-th/wallet_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-tl/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-tl/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-tl/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-tl/wallet_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-tr/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-tr/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-tr/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-tr/wallet_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-uk/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-uk/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-uk/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-uk/wallet_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-ur-rPK/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-ur-rPK/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-ur-rPK/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-uz-rUZ/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-uz-rUZ/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-uz-rUZ/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-v11/appinvite_styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-v21/appinvite_styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-vi/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-vi/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-vi/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-vi/wallet_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-zh-rCN/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-zh-rCN/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-zh-rCN/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-zh-rCN/wallet_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-zh-rHK/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-zh-rHK/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-zh-rHK/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-zh-rHK/wallet_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-zh-rTW/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-zh-rTW/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-zh-rTW/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-zh-rTW/wallet_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-zu/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-zu/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values-zu/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values/admob_ads_attrs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values/admob_iap_style.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values/admob_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values/appinvite_styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values/auth_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values/base_attrs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values/base_colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values/base_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values/cast_ids.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values/cast_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values/common_attrs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values/location_colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values/location_dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values/location_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values/maps_attrs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values/version.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values/wallet_attrs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values/wallet_colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values/wallet_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/res/values/wallet_styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/google-play-services_lib/src/android/UnusedStub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/javax.inject-1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/nineoldandroids-2.4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/support-v4-19.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/libs/x86/libplayer.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/lint.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/proguard-project.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/res/drawable-hdpi/.dummy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/res/drawable-hdpi/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/res/drawable-ldpi/.dummy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/res/drawable-ldpi/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/res/drawable-mdpi/.dummy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/res/drawable-mdpi/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/res/drawable-xhdpi/.dummy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/res/drawable-xhdpi/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/res/drawable-xxhdpi/.dummy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/res/drawable-xxhdpi/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/res/drawable-xxxhdpi/.dummy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/res/drawable-xxxhdpi/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/res/drawable/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/res/drawable/spacer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/res/layout/main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/src/com/android/vending/billing/IInAppBillingService.aidl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/src/com/pixels99/themazefg/PTPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/src/com/secrethq/ads/PTAdAdMobBridge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/src/com/secrethq/ads/PTAdAppLovinBridge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/src/com/secrethq/ads/PTAdChartboostBridge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/src/com/secrethq/ads/PTAdFacebookBridge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/src/com/secrethq/ads/PTAdHeyzapBridge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/src/com/secrethq/ads/PTAdLeadBoltBridge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/src/com/secrethq/ads/PTAdRevMobBridge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/src/com/secrethq/store/PTStoreBridge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/src/com/secrethq/store/util/Base64.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/src/com/secrethq/store/util/Base64DecoderException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/src/com/secrethq/store/util/IabException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/src/com/secrethq/store/util/IabHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/src/com/secrethq/store/util/IabResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/src/com/secrethq/store/util/Inventory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/src/com/secrethq/store/util/Purchase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/src/com/secrethq/store/util/Security.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/src/com/secrethq/store/util/SkuDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/src/com/secrethq/utils/PTJniHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/src/com/secrethq/utils/PTServicesBridge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/src/org/cocos2dx/DISCLAIMER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/src/org/cocos2dx/lib/Cocos2dxAccelerometer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/src/org/cocos2dx/lib/Cocos2dxActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/src/org/cocos2dx/lib/Cocos2dxBitmap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/src/org/cocos2dx/lib/Cocos2dxETCLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/src/org/cocos2dx/lib/Cocos2dxEditBoxDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/src/org/cocos2dx/lib/Cocos2dxEditText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/src/org/cocos2dx/lib/Cocos2dxGLSurfaceView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/src/org/cocos2dx/lib/Cocos2dxHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/src/org/cocos2dx/lib/Cocos2dxHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/src/org/cocos2dx/lib/Cocos2dxLocalStorage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/src/org/cocos2dx/lib/Cocos2dxMusic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/src/org/cocos2dx/lib/Cocos2dxRenderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/src/org/cocos2dx/lib/Cocos2dxSound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/src/org/cocos2dx/lib/Cocos2dxTextInputWraper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeGameApp/themaze/android/src/org/cocos2dx/lib/Cocos2dxTypefaces.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1836197215">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MazeGameApp/themaze/android/src/com/pixels99/themazefg/PTPlayer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="262">
+              <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/MazeGameApp/themaze/android/src/com/pixels99/themazefg/PTPlayer.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="77" />
+    <option name="y" value="47" />
+    <option name="width" value="1269" />
+    <option name="height" value="701" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MazeGame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MazeGame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MazeGame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MazeGame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="themazefg" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MazeGame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MazeGame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="cocos2dx" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24fc37f9-6cd7-43ca-889f-efc3e270501e" name="Default Changelist" comment="" />
+      <created>1551965390310</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551965390310</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" visible="true" weight="0.3299373" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Designer" />
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32952693" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="right" id="Palette&#9;" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/MazeGameApp/themaze/android/src/com/pixels99/themazefg/PTPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
